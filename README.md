@@ -53,7 +53,9 @@ Ensemble learning with Random Forest
 **Overfitting Analysis**
 
 -Train models with varying complexity levels
+
 -Compare training vs. test performance
+
 -Identify optimal model complexity
 
 **Hyperparameter Tuning**
