@@ -16,7 +16,7 @@ Ensemble learning with Random Forest
 
 **Features**
 
-**Data Handling**
+1.**Data Handling**
 
 -Load and explore cancer dataset
 
@@ -26,7 +26,7 @@ Ensemble learning with Random Forest
 
 -Split data into training and test sets with stratification
 
-**Decision Tree Classifier**
+2.**Decision Tree Classifier**
 
 -Train Decision Tree with entropy criterion
 
@@ -34,7 +34,7 @@ Ensemble learning with Random Forest
 
 -Visualize decision boundaries
 
-**Entropy Calculation**
+3.**Entropy Calculation**
 
 -Programmatic computation of information entropy
 
@@ -42,7 +42,7 @@ Ensemble learning with Random Forest
 
 -Understand information gain in decision-making
 
-**Tree Visualization**
+4.**Tree Visualization**
 
 -Visual representation of trained Decision Trees
 
@@ -50,7 +50,7 @@ Ensemble learning with Random Forest
 
 -Feature importance analysis
 
-**Overfitting Analysis**
+5.**Overfitting Analysis**
 
 -Train models with varying complexity levels
 
@@ -58,7 +58,7 @@ Ensemble learning with Random Forest
 
 -Identify optimal model complexity
 
-**Hyperparameter Tuning**
+6.**Hyperparameter Tuning**
 
 Three optimization approaches implemented:
 
@@ -68,7 +68,7 @@ Three optimization approaches implemented:
 
 3-Optuna: Bayesian optimization for efficient tuning
 
-**Ensemble Methods**
+7.**Ensemble Methods**
 
 -Random Forest implementation (Bagging)
 
@@ -76,8 +76,19 @@ Three optimization approaches implemented:
 
 -Feature importance from ensemble perspective
 
-**Forest Visualization**
+8.**Forest Visualization**
 
 -Visualize 5-6 individual trees from Random Forest
 
 -Compare decision-making across ensemble members
+
+
+**Dataset**
+
+The project uses a cancer classification dataset containing:
+
+Features: Multiple clinical and diagnostic features
+
+Target: Binary classification (Malignant/Benign)
+
+Source: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
