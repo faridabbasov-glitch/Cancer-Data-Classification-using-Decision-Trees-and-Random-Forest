@@ -28,11 +28,11 @@ Ensemble learning with Random Forest
 
 **Decision Tree Classifier**
 
-1)Train Decision Tree with entropy criterion
+-Train Decision Tree with entropy criterion
 
-2)Evaluate model performance using multiple metrics
+-Evaluate model performance using multiple metrics
 
-3)Visualize decision boundaries
+-Visualize decision boundaries
 
 **Entropy Calculation**
 
@@ -57,6 +57,7 @@ Ensemble learning with Random Forest
 -Identify optimal model complexity
 
 **Hyperparameter Tuning**
+
 Three optimization approaches implemented:
 
 1-Grid Search: Exhaustive parameter search
