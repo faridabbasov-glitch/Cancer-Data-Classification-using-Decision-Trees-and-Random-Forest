@@ -82,6 +82,13 @@ Three optimization approaches implemented:
 
 -Compare decision-making across ensemble members
 
+### Model Performance
+
+| Model | Test Accuracy | Improvement |
+|-------|---------------|-------------|
+| Decision Tree | 94.74% | - |
+| Random Forest | 96.49% | +1.75% |
+
 
 **Dataset**
 
